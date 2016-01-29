@@ -1,0 +1,14 @@
+x,
+y,
+a > b,
+a + b{
+  display: none;
+}
+
+x {
+  color: black;
+}
+
+y {
+  color: white;
+}
