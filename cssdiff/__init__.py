@@ -108,7 +108,7 @@ def difference(s1, s2, op="+", iterate=lambda s: sorted(s.items())):
             if another_value is None:
                 d[style].append(add(name, value))
             elif value != another_value:
-                d[style].append(change(name, value, another_value))
+                d[style].append(change(name, another_value, value))
     return d
 
 
