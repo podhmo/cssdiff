@@ -52,4 +52,6 @@ setup(name='cssdiff',
       tests_require=tests_require,
       test_suite="cssdiff.tests",
       entry_points="""
+      [console_scripts]
+      cssdiff=cssdiff:main
 """)
