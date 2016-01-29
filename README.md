@@ -1,2 +1,0 @@
-# cssdiff
-semantic css diff
