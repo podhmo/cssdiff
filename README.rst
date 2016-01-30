@@ -20,7 +20,7 @@ we have two files.
 - x-only.css
 - all.css
 
-x-only include only about x element, all.css has x and y.
+x-only.css include only about x element, all.css has about x and y.
 
 .. code-block:: bash
 
