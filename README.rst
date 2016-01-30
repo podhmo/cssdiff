@@ -11,7 +11,7 @@ install
 see css difference
 ----------------------------------------
 
-`cssdiff` command is installed.
+`cssdiff` command is installed. using this command, be enable to see css difference.
 
 adding detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -140,7 +140,7 @@ below files are same meaning of all.css. so, no-difference.
 appendix
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-extra.css has extrainformation. so, cssdiff notify it.
+extra.css has extra information. so, cssdiff notify it.
 
 .. code-block:: bash
 
